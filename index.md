@@ -68,3 +68,9 @@ A blunter test: load the tool, turn off Wi-Fi, then run it. If it still works, i
 Use whatever you like, but run the network tab test on it first.
 
 Related: [compressing a PDF under 100 KB for form uploads](https://trydocsy.com/compress-pdf-100kb), [redacting a PDF so the text is really gone](https://trydocsy.com/pdf/redact).
+
+## More notes
+
+- [Getting a PDF under 100 KB or 200 KB for an online form](https://gist.github.com/SoloEminence/9d08340ea2451ff20392dd9bca18b80e)
+- [Photo and signature sizes for online application forms](https://write.as/dq6t8j5cqaryb)
+- [Aadhaar, PAN and ID documents for online forms: a checklist](https://docs.google.com/document/d/e/2PACX-1vSXAL6h-BP-huiCZqPst-EFpcqa3IIhIHOAG28rocrZ7UdheVaHdi3eC5YYo5DGE5cixpjNHCFBvViM/pub)
